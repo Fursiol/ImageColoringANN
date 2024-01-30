@@ -1,7 +1,8 @@
 # ImageColoringANN
 
 Autoencoder built using convolutional neural net trained to change single channel photos (black-white) to 3-channeled photos (RGB). 
-Writtin in Python using tensorflow.
+
+Written in Python using tensorflow.
 
 ![463](https://github.com/Fursiol/ImageColoringANN/assets/96287065/d15bb343-27c8-4780-afd6-a7555b245994)
 ![decoded_img_4](https://github.com/Fursiol/ImageColoringANN/assets/96287065/bdbfe96b-76f2-4239-84e1-191287e6d781)
